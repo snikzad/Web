@@ -1,0 +1,36 @@
+body { 
+    /* The image used */
+    background-image: url("Back.png");
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-size:18px;
+    line-height: 9px;
+    font-family: Verdana, Geneva, sans-serif
+
+
+}
+
+h1 {
+	margin: 18px 0 0 0;
+	text-align: center;
+	letter-spacing: 18px;
+	font-size: 45px;
+    font-family: Verdana, Geneva, sans-serif
+
+
+}
+
+#container {
+	height: 200px;
+	width: 800px;
+}
+
+#brad {
+	height: 220px;
+	width: 220px;
+	transform: rotate(-20deg);
+}
