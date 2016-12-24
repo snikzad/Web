@@ -30,6 +30,12 @@ h1 {
 	width: 800px;
 }
 
+#container2 {
+position:fixed;
+height: 400px;
+width: 900px;
+}
+
 #brad {
     position:fixed;
     top:10%;
@@ -37,4 +43,12 @@ h1 {
 	height: 150px;
 	width: 150px;
 	transform: rotate(-20deg);
+}
+
+#Charm {
+    position:fixed;
+    top:30%;
+    right:100%;
+	height: 250px;
+	width: 250px;
 }
