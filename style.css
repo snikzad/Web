@@ -47,8 +47,8 @@ h1 {
 
 #Charm {
     position:fixed;
-    top:10%;
-    right:10%;
-	height: 100px;
-	width: 100px;
+    top:100%;
+    right:100%;
+	height: 150px;
+	width: 150px;
 }
