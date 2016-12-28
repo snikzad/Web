@@ -26,8 +26,9 @@ h1 {
 
 #container {
 	position:fixed;
-	height: 200px;
-	width: 800px;
+	top:10%;
+	height: 90%;
+	width: 100%;
 }
 
 #brad {
