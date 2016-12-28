@@ -38,13 +38,3 @@ h1 {
 	width: 150px;
 	transform: rotate(-20deg);
 }
-
-#Charm {
-	position:fixed;
-	top:20%;
-	right:70%;
-	height: 150px;
-	width: 150px;
-	transform: rotate(-20deg);
-	
-}
